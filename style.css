@@ -1,0 +1,28 @@
+.img{
+    box-shadow: 6px 6px 6px black;
+}
+.list-group-item{
+    display: inline-block;
+    margin:1%;
+    color: white;
+    
+}
+
+
+.btn{
+    color: #1F968A;
+    outline: #1F968A;
+}
+.green{
+  color: green;
+}
+.yellow{
+    color: yellow;
+  }
+.white{
+    color: white;
+}
+.fa{
+
+     filter: drop-shadow();
+}
